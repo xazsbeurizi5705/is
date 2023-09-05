@@ -1,0 +1,11 @@
+# Instructions for Manual Download:
+#
+# Please, download the [MiT weights](https://drive.google.com/drive/folders/1b7bwrInTW4VLEm27YawHOAMSMikga2Ia?usp=sharing)
+# pretrained on ImageNet-1K provided by the official
+# [SegFormer repository](https://github.com/NVlabs/SegFormer) and put them in a
+# folder `pretrained/` within this project. For most of the experiments, only
+# mit_b5.pth is necessary.
+#
+# Please, download the checkpoint of DAFormer on GTA->Cityscapes from
+# [here](https://drive.google.com/file/d/1pG3kDClZDGwp1vSTEXmTchkGHmnLQNdP/view?usp=sharing).
+# and extract it to `work_dirs/`
